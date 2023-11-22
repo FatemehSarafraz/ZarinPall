@@ -1,0 +1,11 @@
+@font-face {
+    font-family: iranyekan;
+    src: url('../fonts/iranyekanwebmedium.woff'),
+    url('../fonts/iranyekanwebregular.woff'),
+    url('../fonts/YekanBakhBold.woff'),
+    url('../fonts/YekanBakhHeavy.woff'),
+    url('../fonts/YekanBakhMedium.woff');
+}
+body{
+    font-family: iranyekan;
+}
